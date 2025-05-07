@@ -3,7 +3,7 @@
 ### Estudante de Ciência da Computação  
 Java • Engenharia de Software • Backend + low-level
 
-Estudante focado em desenvolvimento backend com Java/Spring e engenharia de software. Tenho interesse em como os sistemas funcionam internamente — de aplicações web a código em C e Assembly. Busco entender os fundamentos para escrever software confiável e eficiente.
+Estudante de Ciência da Computação com foco em desenvolvimento backend em Java/Spring. Interessado em engenharia de software e no funcionamento interno dos sistemas — do backend à programação de baixo nível com C e Assembly.
 
 - 🎓 Graduação em Ciência da Computação  
 - ☁️ Backend: Java, Spring Boot
