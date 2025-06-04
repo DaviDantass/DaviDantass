@@ -1,13 +1,13 @@
 # Davi Dantas
 
 ### Estudante de Ciência da Computação  
-Java • Engenharia de Software • Backend + low-level
+Java • Engenharia de Software • Backend
 
-Estudante de Ciência da Computação com foco em desenvolvimento backend em Java/Spring. Interessado em engenharia de software e no funcionamento interno dos sistemas — do backend à programação de baixo nível com C e Assembly.
+Estudante de Ciência da Computação com foco em desenvolvimento backend em Java/Spring. Interessado em engenharia de software e no desempenho interno dos sistemas — combinando boas práticas com conhecimento de fundamentos de baixo nível.
 
 - 🎓 Graduação em Ciência da Computação  
-- ☁️ Backend: Java, Spring Boot
-- ⚙️ Baixo nível: C, C++, Assembly
+- ☁️ Backend: Java, Spring Boot  
+- ⚙️ Baixo Nível
 - 📫 Contato: davidantasdev@gmail.com
 
 ---
@@ -18,9 +18,7 @@ Estudante de Ciência da Computação com foco em desenvolvimento backend em Jav
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-
 </p>
 
 **Frameworks e Ferramentas:**  
@@ -34,4 +32,3 @@ Estudante de Ciência da Computação com foco em desenvolvimento backend em Jav
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
 </p>
-
