@@ -1,9 +1,4 @@
-<h1 align="center">Hi, I'm Davi</h1>
-<h4 align="center">Computer Science Student | Java & Spring Backend Developer ☕</h4>
-
-
-
-## 💫 About Me
+## Hi, I'm Davi
 
 - 🎓 Currently studying **Computer Science (2nd period)**
 - ☕ Focused on **Java** and **Spring** for backend development
