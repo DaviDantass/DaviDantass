@@ -7,7 +7,7 @@
 ## 🧠 Technologies and Tools I Use
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,postman,python,django"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,postman,python"/>
 </div>
 
 ---
