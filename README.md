@@ -13,6 +13,7 @@
 ---
 
 <div align="center">
-  <img width="435" src="https://github-readme-stats.vercel.app/api?username=DaviDantass&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10" />
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDantass&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviDantass&show_icons=true&count_private=true&theme=nord&rank_icon=github&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDantass&layout=compact&theme=nord&count_private=true&border_radius=10" alt="Top languages" />
 </div>
+
