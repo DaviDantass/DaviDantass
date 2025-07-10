@@ -5,7 +5,7 @@ Estudante de **Ciência da Computação**, com foco em desenvolvimento backend u
 --- 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,postman,python" style="padding: 5px;" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,postman" style="padding: 5px;" />
 </div>
 
 ##
