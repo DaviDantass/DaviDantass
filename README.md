@@ -20,10 +20,12 @@ Estudante de **Ciência da Computação**, com foco em desenvolvimento backend u
 ### Redes
 
 <div align="center">
-  <a href="mailto:davidantasdev@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" style="padding: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/davi-dantas-1a8895317" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" style="padding: 5px;" />
-  </a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidantasdev@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-dantas-1a8895317)
+
 </div>
+
+
+
+
