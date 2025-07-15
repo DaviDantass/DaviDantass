@@ -2,7 +2,7 @@
 
 Estudante de **Ciência da Computação**, com foco em desenvolvimento backend utilizando **Java** e **Spring**. Estou dedicado a aprimorar minhas habilidades técnicas e contribuir com projetos que gerem valor e inovação na área de tecnologia.
 
---- 
+---
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,postman,git" style="padding: 5px;" />
@@ -17,10 +17,13 @@ Estudante de **Ciência da Computação**, com foco em desenvolvimento backend u
 
 ##
 
+### Redes
+
 <div align="center">
   <a href="mailto:davidantasdev@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" style="padding: 5px;" />
-     </a>
+  </a>
+  <a href="https://www.linkedin.com/in/davi-dantas-1a8895317" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" style="padding: 5px;" />
+  </a>
 </div>
-
-
