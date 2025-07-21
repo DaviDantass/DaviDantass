@@ -1,6 +1,6 @@
 # Davi Dantas
 
-Estudante de **Ciência da Computação**, com foco em desenvolvimento backend utilizando **Java** e **Spring**. Estou dedicado a aprimorar minhas habilidades técnicas e contribuir com projetos que gerem valor e inovação na área de tecnologia.
+Estudante de **Ciência da Computação**, com foco em desenvolvimento backend utilizando **Java** e **Spring**. 
 
 ---
 
