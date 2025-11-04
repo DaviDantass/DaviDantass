@@ -5,10 +5,7 @@
 </p>
 
 
-Estudante de **Ciência da Computação**, com foco em **desenvolvimento backend em Java**.  
-Experiência com **Spring Boot**, Spring MVC, Spring Data JPA, Docker, Hibernate e **REST APIs**, além de integração com **MySQL** e **PostgreSQL**.  
-Familiaridade com **Git** e **Maven** para versionamento e gerenciamento de dependências.  
-
+Estudante de Ciência da Computação com foco em desenvolvimento backend em Java, utilizando Spring Boot para criar aplicações robustas, escaláveis e bem estruturadas com REST APIs, bancos de dados relacionais (PostgreSQL, MySQL) e aplicação de boas práticas de programação (OOP, Clean Code).
 <br>
 
 <div align="left">  
