@@ -1,13 +1,13 @@
 # 💻 Davi Dantas  
 
 Estudante de **Ciência da Computação**, com foco em **desenvolvimento backend em Java**.  
-Conhecimento em **Spring Boot**, Spring MVC, Spring Data JPA, Hibernate e **REST APIs**, além de integração com bancos de dados **MySQL** e **PostgreSQL**.  
+Conhecimento em **Spring Boot**, Spring MVC, Spring Data JPA, Docker, Hibernate e **REST APIs**, além de integração com bancos de dados **MySQL** e **PostgreSQL**.  
 Familiaridade com **Git** e **Maven** para versionamento e gerenciamento de dependências.  
 
 ---
 
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,maven,postman,git" style="padding: 5px;" />  
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,docker,maven,postman,git" style="padding: 5px;" />  
 </div>  
 
 ---
