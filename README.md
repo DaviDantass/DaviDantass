@@ -8,9 +8,10 @@
 Estudante de Ciência da Computação com foco em desenvolvimento backend em Java, utilizando Spring Boot para criar aplicações robustas, escaláveis e bem estruturadas com REST APIs, bancos de dados relacionais (PostgreSQL, MySQL) e aplicação de boas práticas de programação (OOP, Clean Code).
 <br>
 
-<div align="left">  
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,docker,maven,postman,git" style="padding: 5px;" />  
-</div>  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgresql,mysql,docker,git,postman,angular" style="padding: 5px;" />
+</div>
+
 
 ###
 <div align="left" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">  
