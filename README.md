@@ -14,13 +14,7 @@ Estudante de Ciência da Computação com foco em desenvolvimento backend em Jav
 
 
 ###
-<div align="left" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">  
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=DaviDantass&show_icons=true&count_private=true&theme=dark&bg_color=182625&border_radius=10&text_color=8AA6A3&icon_color=5E8B7E" 
-       alt="GitHub Stats" />  
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDantass&layout=compact&theme=dark&bg_color=182625&border_radius=10&text_color=8AA6A3&icon_color=5E8B7E" 
-       alt="Top Languages" />  
+ 
 </div>
 
 
