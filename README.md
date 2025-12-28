@@ -9,7 +9,7 @@ Desenvolvedor Backend focado em Java e Spring Boot, criando aplicações robusta
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgresql,mysql,docker,git,postman,angular" style="padding: 5px;" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgresql,mysql,docker,git,postman" style="padding: 5px;" />
 </div>
 
 
