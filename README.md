@@ -10,7 +10,7 @@ Desenvolvedor Backend - Java & Spring Boot, atuando no desenvolvimento de APIs R
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,docker,git,linux,postman,junit" style="padding: 5px;" />
 </div>
 
-### Complementares
+#### Complementares
 <div align="left">
   <img height="30" src="https://skillicons.dev/icons?i=python,django,arduino" />
 </div>
