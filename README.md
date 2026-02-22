@@ -6,12 +6,14 @@
 Desenvolvedor Backend - Java & Spring Boot, atuando no desenvolvimento de APIs REST seguras, escaláveis e bem estruturadas, com preocupação arquitetural e consistência técnica. Experiência com PostgreSQL e MySQL, integração via JPA/Hibernate e aplicação prática de OOP, SOLID, Clean Code e padrões de projeto, com forte atenção à segurança, testabilidade, manutenibilidade e qualidade do código.
 </p>
 
-
-
 <div align="left">
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,docker,git,linux,postman,junit" style="padding: 5px;" />
 </div>
 
+### Complementares
+<div align="left">
+  <img height="30" src="https://skillicons.dev/icons?i=python,django,arduino" />
+</div>
 
 ###
  
