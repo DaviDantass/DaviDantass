@@ -1,8 +1,6 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,100:7a0c0c&height=100&section=header"/>
-</p>
 
-<h1 align="left" style="margin-top: 0;">Davi Dantas</h1>
+
+# Davi Dantas
 
 <p align="left">
   <a href="https://www.linkedin.com/in/davi-dantas-1a8895317"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin"alt="LinkedIn"></a>
@@ -21,7 +19,9 @@ Desenvolvedor Backend - Java & Spring Boot, atuando no desenvolvimento de APIs R
 </div>
 
 ###
- 
 </div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,100:7a0c0c&height=100&section=header"/>
+</p>
 
 
