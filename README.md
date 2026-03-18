@@ -1,5 +1,3 @@
-
-
 # Davi Dantas
 
 <p align="left">
@@ -20,8 +18,6 @@ Desenvolvedor Backend - Java & Spring Boot, atuando no desenvolvimento de APIs R
 
 ###
 </div>
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,100:7a0c0c&height=100&section=header"/>
-</p>
+
 
 
