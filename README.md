@@ -8,12 +8,12 @@ Desenvolvedor Backend - <strong>Java</strong> & <strong>Spring Boot</strong>, at
 </p>
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,docker,git,linux,postman,junit" style="padding: 5px;" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,docker,git,rust,linux,postman,junit" style="padding: 5px;" />
 </div>
 
 #### Complementares
 <div align="left">
-  <img height="23" src="https://skillicons.dev/icons?i=rust,python,django,arduino," />
+  <img height="20" src="https://skillicons.dev/icons?i=c,python,django,arduino," />
 </div>
 
 ###
