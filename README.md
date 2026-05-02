@@ -13,7 +13,7 @@ Desenvolvedor Backend - <strong>Java</strong> & <strong>Spring Boot</strong>, at
 
 #### Complementares
 <div align="left">
-  <img height="20" src="https://skillicons.dev/icons?i=c,python,django,arduino," />
+  <img height="20" src="https://skillicons.dev/icons?i=javascript,typescript,react,next,python,django" />
 </div>
 
 ###
