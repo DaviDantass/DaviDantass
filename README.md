@@ -6,8 +6,8 @@
   
 <p>
 Desenvolvedor Backend - <strong>Java
-</strong> & <strong>Spring Boot</strong>focado no desenvolvimento de APIs REST seguras, escaláveis e bem estruturadas, com arquitetura em camadas bem definida e aplicação prática de SOLID e Clean Code. Experiência sólida com Spring Security (JWT), JPA/Hibernate, bancos relacionais (PostgreSQL e MySQL), testes unitários e de integração com JUnit e Mockito, além de Docker e Git, com foco em código consistente e manuteníve
- <\p>
+</strong> & <strong>Spring Boot</strong> focado no desenvolvimento de APIs REST seguras, escaláveis e bem estruturadas, com arquitetura em camadas bem definida e aplicação prática de SOLID e Clean Code. Experiência sólida com Spring Security (JWT), JPA/Hibernate, bancos relacionais (PostgreSQL e MySQL), testes unitários e de integração com JUnit e Mockito, além de Docker e Git, com foco em código consistente e manutenível
+
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,docker,git,postman,linux" />
