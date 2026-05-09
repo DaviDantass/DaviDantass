@@ -9,12 +9,12 @@ Desenvolvedor <strong>Fullstack com foco em Backend Java</strong> & <strong>Spri
 
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,docker,git,postman,linux" />
+<img height="43" src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,docker,git,postman,linux" />
 </div>
 
 #### front end:
 <div align="left">
-  <img height="29" src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs" />
+  <img height="28" src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs" />
 </div>
 <p></p>
 <code>davidantasdev@gmail.com</code>
