@@ -14,7 +14,7 @@
 
 #### front end:
 <div align="left">
-  <img height="25" src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs" />
+  <img height="22" src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs" />
 </div>
 <p></p>
 <code>davidantasdev@gmail.com</code>
