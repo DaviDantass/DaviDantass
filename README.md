@@ -16,7 +16,7 @@ Busco estruturar sistemas com separação clara de responsabilidades, utilizando
   <img height="38" src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,docker,git,postman,linux" />
 </p>
 
-<sub>Também familiarizado com React, TypeScript e JavaScript para integração com APIs e interfaces administrativas.</sub>
+<sub>Também familiarizado com React, TypeScript e JavaScript para integração com APIs e interfaces.</sub>
 
 <p align="left">
   <img height="24" src="https://skillicons.dev/icons?i=typescript,javascript,react" />
