@@ -13,7 +13,7 @@ Busco estruturar sistemas com separação clara de responsabilidades, utilizando
 
 
 <p align="left">
-  <img height="38" src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,docker,git,postman,linux,python" />
+  <img height="38" src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,docker,git,postman,linux" />
 </p>
 
 <sub>Também familiarizado com React, TypeScript e JavaScript para integração com APIs e interfaces.</sub>
