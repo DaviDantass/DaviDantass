@@ -11,9 +11,8 @@ Atuo no desenvolvimento de aplicações backend com Java e Spring Boot, com foco
 
 Busco estruturar sistemas com separação clara de responsabilidades, utilizando camadas bem definidas, DTOs, services, repositories, migrations, logs, testes unitários com JUnit/Mockito, boas práticas de versionamento com Git e apoio de ferramentas como Docker e Postman. Também considero aspectos de manutenção, segurança, baixo acoplamento e evolução do sistema desde o começo.
 
-
 <p align="left">
-  <img height="24" src="https://skillicons.dev/icons?i=typescript,javascript,react" />
+  <img height="38" src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,docker,go,git,postman,linux" />
 </p>
 
 
