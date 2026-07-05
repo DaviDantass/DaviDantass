@@ -7,9 +7,10 @@
 
 **Backend - Java & Spring Boot**
 
-Atuo no desenvolvimento de aplicações backend com Java e Spring Boot, com foco em APIs REST, segurança, persistência relacional e organização arquitetural. Tenho experiência com autenticação e autorização usando Spring Security, JWT e OAuth2, modelagem de dados com JPA/Hibernate, integração com PostgreSQL e MySQL, validação de regras de negócio, tratamento centralizado de exceções e documentação de APIs com Swagger/OpenAPI.
+Desenvolvedor backend Java e Spring Boot, com foco na construção de APIs REST seguras, escaláveis e de fácil manutenção. Possuo experiência em autenticação e autorização com Spring Security, JWT e OAuth2, persistência de dados com JPA/Hibernate, integração com bancos de dados relacionais (PostgreSQL e MySQL) e não relacionais (MongoDB), além de implementação de regras de negócio, tratamento centralizado de exceções e documentação de APIs com Swagger/OpenAPI.
 
-Busco estruturar sistemas com separação clara de responsabilidades, utilizando camadas bem definidas, DTOs, services, repositories, migrations, logs, testes unitários com JUnit/Mockito, boas práticas de versionamento com Git e apoio de ferramentas como Docker e Postman. Também considero aspectos de manutenção, segurança, baixo acoplamento e evolução do sistema desde o começo.
+Estruturo aplicações priorizando arquitetura, qualidade de código e evolução contínua, com separação clara de responsabilidades, baixo acoplamento, testes automatizados (JUnit/Mockito), versionamento com Git e práticas que favorecem manutenção, segurança e escalabilidade.
+
 
 <p align="left">
   <img height="48" src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,docker,go,git,postman,linux" />
