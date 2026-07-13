@@ -7,9 +7,8 @@
 
 **Backend - Java & Spring Boot**
 
-Desenvolvedor backend Java e Spring Boot, com foco na construção de APIs REST seguras, escaláveis e de fácil manutenção. Possuo experiência em autenticação e autorização com Spring Security, JWT e OAuth2, persistência de dados com JPA/Hibernate, integração com bancos de dados relacionais (PostgreSQL e MySQL) e não relacionais (MongoDB), além de implementação de regras de negócio, tratamento centralizado de exceções e documentação de APIs com Swagger/OpenAPI.
+Desenvolvedor backend Java com foco em Spring Boot, especializado na construção de APIs REST seguras, escaláveis e de fácil manutenção. Possuo experiência com Spring Security, JWT, OAuth2, JPA/Hibernate, PostgreSQL, MySQL e MongoDB, além de implementação de regras de negócio, tratamento centralizado de exceções, documentação com Swagger/OpenAPI e testes automatizados com JUnit e Mockito. Estruturo aplicações priorizando arquitetura, qualidade de código (solid) e evolução contínua, utilizando separação clara de responsabilidades, baixo acoplamento, versionamento com Git e boas práticas que favorecem manutenção, segurança e escalabilidade.
 
-Estruturo aplicações priorizando arquitetura, qualidade de código e evolução contínua, com separação clara de responsabilidades, baixo acoplamento, testes automatizados (JUnit/Mockito), versionamento com Git e práticas que favorecem manutenção, segurança e escalabilidade.
 
 
 <p align="left">
