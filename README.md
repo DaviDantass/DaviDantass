@@ -1,9 +1,10 @@
 # Davi Dantas
 
-Estudante de Ciência da computação - Desenvolveodor backend focado em Java e Spring Boot, com prática no desenvolvimento de APIs REST seguras, escaláveis e de fácil manutenção. Conhecimentos em arquitetura de microsserviços, Spring Security, JWT, OAuth2, JPA/Hibernate, PostgreSQL, MySQL e MongoDB, além de implementação de regras de negócio, comunicação entre serviços, tratamento centralizado de exceções, documentação com Swagger/OpenAPI e testes automatizados com JUnit e Mockito. Estruturo meus projetos priorizando qualidade de código, princípios SOLID, separação clara de responsabilidades e baixo acoplamento, utilizando Git, Docker e boas práticas voltadas à manutenção, segurança e evolução das aplicações.
+Estudante de Ciência da Computação e Desenvolvedor Backend com foco em **Java e Spring Boot**, atuando no desenvolvimento de **APIs REST** e aplicações backend. Conhecimentos em **Spring Security, JWT, JPA/Hibernate, PostgreSQL, MySQL e MongoDB**, além de testes automatizados com **JUnit e Mockito**. Aplico **SOLID, Clean Code e boas práticas de desenvolvimento**, utilizando **Git, Docker, Swagger/OpenAPI e Postman** no desenvolvimento e documentação de aplicações.
+
 
 <p align="left">
-  <img height="46" src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,docker,cs,git,postman,linux" />
+  <img height="39" src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,docker,cs,git,postman,linux" />
 </p>
 
 <p align="left">
