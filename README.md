@@ -4,7 +4,7 @@ Estudante de Ciência da Computação e Desenvolvedor Backend com foco em **Java
 
 
 <p align="left">
-  <img height="39" src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,docker,ruby,git,postman,linux" />
+  <img height="39" src="https://skillicons.dev/icons?i=java,spring,ruby,rails,postgresql,mysql,docker,git,linux,maven,postman" />
 </p>
 
 <p align="left">
