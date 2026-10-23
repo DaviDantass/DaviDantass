@@ -9,7 +9,7 @@ Estudante de Ciência da Computação e Desenvolvedor Backend com foco em **Java
 Experiência prática com **Spring Security, JWT, JPA/Hibernate, PostgreSQL, MySQL e MongoDB**, além de testes automatizados com **JUnit e Mockito**. Utilizo **Docker, Git, Swagger/OpenAPI e Postman**, aplicando princípios de **SOLID, Clean Code e boas práticas de desenvolvimento**.
 
 <p align="left">
-  <img height="39" src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,mongodb,docker,git,linux,maven,ruby,postman" />
+  <img height="39" src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,mongodb,docker,git,linux,maven,rust,postman" />
 </p>
 
 
