@@ -5,13 +5,19 @@
   <a href="mailto:davidantasdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"alt="Email"></a>
 <p>
   
-Estudante de Ciência da Computação e Desenvolvedor Backend com foco em **Java e Spring Boot**, desenvolvendo **APIs REST** e aplicações backend.
-Experiência prática com **Spring Security, JWT, JPA/Hibernate, PostgreSQL, MySQL e MongoDB**, além de testes automatizados com **JUnit e Mockito**. Utilizo **Docker, Git, Swagger/OpenAPI e Postman**, aplicando princípios de **SOLID, Clean Code e boas práticas de desenvolvimento**.
+**Computer Science student** and **backend developer** focused on **Java**, **Spring Boot**, and **Software Engineering**. I'm interested in understanding how systems work, from **application development** to **infrastructure**, **networking**, and **security**.
 
-Redes, Cibersegurança e Programação Competitiva.
+I have hands-on experience building **REST APIs**, implementing **authentication** and **authorization** with **Spring Security**, **JWT**, and **OAuth 2.0**, and managing **data persistence** with **JPA/Hibernate**, **SQL**, and **NoSQL databases**. I also write **automated tests** with **JUnit** and **Mockito** and use **Docker**, **Git**, **Swagger/OpenAPI**, and **Postman**, following **SOLID principles**, **Clean Code**, and **software development best practices**.
 
 <p align="left">
-  <img height="39" src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,mongodb,docker,git,linux,maven,postman" />
+  <img height="36" src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,docker,git,linux,maven,postman" />
 </p>
 
 
+<p align="left">
+  <img src="https://cdn.simpleicons.org/cplusplus/8892B0" height="21" alt="C++" />&nbsp;
+  <img src="https://cdn.simpleicons.org/python/8892B0" height="21" alt="Python" />&nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash/8892B0" height="21" alt="Bash" />&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/8892B0" height="21" alt="Wireshark" />&nbsp;
+  <img src="https://cdn.simpleicons.org/burpsuite/8892B0" height="21" alt="Burp Suite" />&nbsp;
+</p>
