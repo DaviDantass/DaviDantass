@@ -1,8 +1,8 @@
 # Davi Dantas
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/davi-dantas-1a8895317"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin"alt="LinkedIn"></a>
-  <a href="mailto:davidantasdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"alt="Email"></a>
+  <a href="https://www.linkedin.com/in/davi-dantas-1a8895317"><img src="https://img.shields.io/badge/LinkedIn-4B5563?style=flat&logo=linkedin"alt="LinkedIn"></a>
+  <a href="mailto:davidantasdev@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat&logo=gmail&logoColor=white"alt="Email"></a>
 <p>
   
 **Computer Science student** and **backend developer** focused on **Java**, **Spring Boot**, and **Software Engineering**. I'm interested in understanding how systems work, from **application development** to **infrastructure**, **networking**, and **security**.
