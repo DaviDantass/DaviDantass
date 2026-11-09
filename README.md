@@ -10,7 +10,7 @@
 I have hands-on experience building **REST APIs**, implementing **authentication** and **authorization** with **Spring Security**, **JWT**, and **OAuth 2.0**, and managing **data persistence** with **JPA/Hibernate**, **SQL**, and **NoSQL databases**. I also write **automated tests** with **JUnit** and **Mockito** and use **Docker**, **Git**, **Swagger/OpenAPI**, and **Postman**, following **SOLID principles**, **Clean Code**, and **software development best practices**.
 
 <p align="left">
-  <img height="36" src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,docker,git,linux,maven,postman" />
+  <img height="38" src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,docker,git,linux,maven,postman" />
 </p>
 
 
