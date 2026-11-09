@@ -15,9 +15,10 @@ I have hands-on experience building **REST APIs**, implementing **authentication
 
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/cplusplus/8892B0" height="21" alt="C++" />&nbsp;
-  <img src="https://cdn.simpleicons.org/python/8892B0" height="21" alt="Python" />&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash/8892B0" height="21" alt="Bash" />&nbsp;
-  <img src="https://cdn.simpleicons.org/wireshark/8892B0" height="21" alt="Wireshark" />&nbsp;
-  <img src="https://cdn.simpleicons.org/burpsuite/8892B0" height="21" alt="Burp Suite" />&nbsp;
+  <img src="https://cdn.simpleicons.org/Rust/8892B0" height="20" alt="Rust" />&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/8892B0" height="20" alt="C++" />&nbsp;
+  <img src="https://cdn.simpleicons.org/python/8892B0" height="20" alt="Python" />&nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash/8892B0" height="20" alt="Bash" />&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/8892B0" height="20" alt="Wireshark" />&nbsp;
+  <img src="https://cdn.simpleicons.org/burpsuite/8892B0" height="20" alt="Burp Suite" />&nbsp;
 </p>
