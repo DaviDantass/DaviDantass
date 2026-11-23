@@ -12,12 +12,3 @@ I have hands-on experience building **REST APIs**, implementing **authentication
 <p align="left">
   <img height="38" src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,python,docker,git,linux,maven,postman" />
 </p>
-
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/Rust/8892B0" height="20" alt="Rust" />&nbsp;
-  <img src="https://cdn.simpleicons.org/c/8892B0" height="20" alt="C" />&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash/8892B0" height="20" alt="Bash" />&nbsp;
-  <img src="https://cdn.simpleicons.org/wireshark/8892B0" height="20" alt="Wireshark" />&nbsp;
-  <img src="https://cdn.simpleicons.org/burpsuite/8892B0" height="20" alt="Burp Suite" />&nbsp;
-</p>
