@@ -7,10 +7,12 @@
   
 **Computer Science student** and **backend developer** focused on **Java**, **Spring Boot**, and **Software Engineering**. I'm interested in understanding how systems work, from **application development** to **infrastructure**, **networking**, and **security**.
 
-I have hands-on experience building **REST APIs**, implementing **authentication** and **authorization** with **Spring Security**, **JWT**, and **OAuth 2.0**, and managing **data persistence** with **JPA/Hibernate**, **SQL**, and **NoSQL databases**. I also write **automated tests** with **JUnit** and **Mockito** and use **Docker**, **Git**, **Swagger/OpenAPI**, and **Postman**, following **SOLID principles**, **Clean Code**, and **software development best practices**.
+I have hands-on experience building **REST APIs**, implementing **authentication** and **authorization** with **Spring Security** and **JWT**, and managing **data persistence** with **JPA/Hibernate**, **SQL**, and **NoSQL databases**. I also write **automated tests** with **JUnit** and **Mockito**, and use **Docker**, **Git**, **Swagger/OpenAPI**, and **Postman**, following **SOLID principles**, **Clean Code**, and software development best practices. 
+
+currently studying: Computer Science | Cybersecurity | Microservices | Apache Kafka | RabbitMQ
 
 <p align="left">
-  <img height="38" src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,python,docker,git,linux,maven,postman" />
+  <img height="38" src="https://skillicons.dev/icons?i=java,spring,python,rust,postgres,mysql,mongodb,redis,docker,linux,git,maven,postman" />
 </p>
 
 ---
